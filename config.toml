@@ -74,14 +74,6 @@ theme = "LoveIt"
     url = "/tags/"
     title = ""
     weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3
 
 # Markup related configuration in Hugo
 [markup]
