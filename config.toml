@@ -27,7 +27,7 @@ theme = "LoveIt"
       # subtitle shown in home page
       subtitleStart = "I'm an Engineer inspired by building the future with beautiful software."
       subtitleMid = "Currently helping build the world's largest neobank - Nubank."
-      subtitleEnd = "Feel free to shuffle through my posts and projects!"
+      subtitleEnd = "My latest side project is a companion app for the Valorant game. I also enjoy writing, so feel free to shuffle through my posts!"
 
       # whether to use typeit animation for subtitle
       typeit = false
