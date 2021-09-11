@@ -53,6 +53,14 @@ theme = "LoveIt"
     [params.footer]
       enable = false
 
+    [params.analytics]
+      enable = true
+      # Google Analytics
+      [params.analytics.google]
+        id = "UA-91635243-2"
+        # whether to anonymize IP
+        anonymizeIP = true
+
 
 [menu]
   [[menu.main]]
